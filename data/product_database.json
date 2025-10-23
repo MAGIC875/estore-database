@@ -426,7 +426,7 @@
     "slug": "mx-master-3s",
     "price": 9990,
     "currency": "RUB",
-    "inStock": true,
+    "inStock": false,
     "shortDescription": "Премиум-мышь для продуктивности.",
     "description": "MX Master 3S отличается точностью, тишиной кликов и удобной эргономикой.",
     "categories": [
@@ -514,7 +514,7 @@
     "slug": "proart-display-pa279cv",
     "price": 44990,
     "currency": "RUB",
-    "inStock": true,
+    "inStock": false,
     "shortDescription": "Монитор для дизайнеров с цветовой точностью Delta E<2.",
     "description": "ASUS ProArt Display — профессиональный монитор с 4K-разрешением и точной цветопередачей.",
     "categories": [
