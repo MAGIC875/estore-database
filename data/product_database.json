@@ -459,7 +459,7 @@
       "Периферия"
     ],
     "specs": {},
-    "images": "",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/KeyroxTKL_RGB.webp",
     "isNew": false,
     "sale": 15
   },
@@ -503,7 +503,7 @@
       "Мониторы"
     ],
     "specs": {},
-    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/UtraGear27GP850.jpg",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/UltraGear27GP850.jpg",
     "isNew": false,
     "sale": 5
   },
@@ -525,7 +525,7 @@
       "Мониторы"
     ],
     "specs": {},
-    "images": "",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/ProArtDisplayPA279CV.png",
     "isNew": false,
     "sale": 25
   },
