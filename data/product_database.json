@@ -1,0 +1,576 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 17 Pro 128GB",
+    "brand": "Apple",
+    "slug": "iphone-17-pro-128gb",
+    "price": 129990,
+    "currency": "RUB",
+    "inStock": true,
+    "shortDescription": "Флагман Apple с чипом A18 Pro и титановым корпусом.",
+    "description": "iPhone 17 Pro оснащён мощным чипом A18 Pro, OLED-дисплеем 120 Гц, усовершенствованной камерой и поддержкой USB-C.",
+    "categories": [
+      "Смартфоны"
+    ],
+    "tags": [
+      "Apple",
+      "Смартфоны"
+    ],
+    "specs": {
+      "Дисплей": "6.1\"",
+      "Память": "128 ГБ",
+      "Процессор": "A18 Pro"
+    },
+    "images": "",
+    "isNew": true,
+    "sale": 0
+  },
+  {
+    "id": 2,
+    "name": "Galaxy S24 Ultra 256GB",
+    "brand": "Samsung",
+    "slug": "galaxy-s24-ultra-256gb",
+    "price": 134990,
+    "currency": "RUB",
+    "inStock": true,
+    "shortDescription": "Флагман Samsung с камерой 200 Мп и S Pen.",
+    "description": "Galaxy S24 Ultra предлагает дисплей 6.8\" AMOLED, процессор Snapdragon 8 Gen 3 и встроенный стилус S Pen.",
+    "categories": [
+      "Смартфоны"
+    ],
+    "tags": [
+      "Samsung",
+      "Смартфоны"
+    ],
+    "specs": {
+      "Дисплей": "6.8\"",
+      "Память": "256 ГБ",
+      "Процессор": "Snapdragon 8 Gen 3"
+    },
+    "images": "",
+    "isNew": true,
+    "sale": 0
+  },
+  {
+    "id": 3,
+    "name": "Xiaomi 14 Pro 256GB",
+    "brand": "Xiaomi",
+    "slug": "xiaomi-14-pro-256gb",
+    "price": 89990,
+    "currency": "RUB",
+    "inStock": true,
+    "shortDescription": "Смартфон с камерой Leica и дисплеем WQHD+.",
+    "description": "Xiaomi 14 Pro оснащён чипом Snapdragon 8 Gen 3, экраном WQHD+ и камерой Leica Summilux.",
+    "categories": [
+      "Смартфоны"
+    ],
+    "tags": [
+      "Xiaomi",
+      "Смартфоны"
+    ],
+    "specs": {
+      "Камера": "50 Мп",
+      "Процессор": "Snapdragon 8 Gen 3"
+    },
+    "images": "",
+    "isNew": false,
+    "sale": 5
+  },
+  {
+    "id": 4,
+    "name": "Pixel 8 128GB",
+    "brand": "Google",
+    "slug": "pixel-8-128gb",
+    "price": 79990,
+    "currency": "RUB",
+    "inStock": true,
+    "shortDescription": "Смартфон Google с ИИ-функциями.",
+    "description": "Pixel 8 с чипом Tensor G3 и улучшенными возможностями ИИ для фото и видео.",
+    "categories": [
+      "Смартфоны"
+    ],
+    "tags": [
+      "Google",
+      "Смартфоны"
+    ],
+    "specs": {
+      "Камера": "50 Мп",
+      "Процессор": "Tensor G3"
+    },
+    "images": "",
+    "isNew": false,
+    "sale": 25
+  },
+  {
+    "id": 5,
+    "name": "Magic 6 Pro 256GB",
+    "brand": "Honor",
+    "slug": "magic-6-pro-256gb",
+    "price": 99990,
+    "currency": "RUB",
+    "inStock": true,
+    "shortDescription": "Флагман Honor с дисплеем 120 Гц и зарядкой 80 Вт.",
+    "description": "Magic 6 Pro имеет AMOLED-дисплей, Snapdragon 8 Gen 3 и батарею 5000 мА·ч с быстрой зарядкой 80 Вт.",
+    "categories": [
+      "Смартфоны"
+    ],
+    "tags": [
+      "Honor",
+      "Смартфоны"
+    ],
+    "specs": {},
+    "images": "",
+    "isNew": true,
+    "sale": 0
+  },
+  {
+    "id": 6,
+    "name": "MacBook Pro 14 M4",
+    "brand": "Apple",
+    "slug": "macbook-pro-14-m4",
+    "price": 219990,
+    "currency": "RUB",
+    "inStock": true,
+    "shortDescription": "Премиальный ноутбук с чипом M4 и Mini-LED экраном.",
+    "description": "MacBook Pro M4 сочетает производительность, автономность и великолепный Liquid Retina XDR дисплей.",
+    "categories": [
+      "Ноутбуки"
+    ],
+    "tags": [
+      "Apple",
+      "Ноутбуки"
+    ],
+    "specs": {
+      "Процессор": "Apple M4",
+      "Экран": "14\"",
+      "Память": "16 ГБ"
+    },
+    "images": "",
+    "isNew": true,
+    "sale": 0
+  },
+  {
+    "id": 7,
+    "name": "ROG Zephyrus G14",
+    "brand": "Asus",
+    "slug": "rog-zephyrus-g14",
+    "price": 179990,
+    "currency": "RUB",
+    "inStock": true,
+    "shortDescription": "Игровой ноутбук с RTX 4070 и Ryzen 9.",
+    "description": "ROG Zephyrus G14 предлагает высокую производительность в компактном корпусе.",
+    "categories": [
+      "Ноутбуки"
+    ],
+    "tags": [
+      "Asus",
+      "Ноутбуки"
+    ],
+    "specs": {
+      "GPU": "RTX 4070",
+      "CPU": "Ryzen 9 7940HS"
+    },
+    "images": "",
+    "isNew": false,
+    "sale": 10
+  },
+  {
+    "id": 8,
+    "name": "Legion 5 Pro",
+    "brand": "Lenovo",
+    "slug": "legion-5-pro",
+    "price": 149990,
+    "currency": "RUB",
+    "inStock": true,
+    "shortDescription": "Игровой ноутбук с экраном 165 Гц.",
+    "description": "Legion 5 Pro — мощный игровой ноутбук с процессором Ryzen и видеокартой RTX 4060.",
+    "categories": [
+      "Ноутбуки"
+    ],
+    "tags": [
+      "Lenovo",
+      "Ноутбуки"
+    ],
+    "specs": {
+      "GPU": "RTX 4060",
+      "CPU": "Ryzen 7"
+    },
+    "images": "",
+    "isNew": false,
+    "sale": 10
+  },
+  {
+    "id": 9,
+    "name": "Spectre x360 14",
+    "brand": "HP",
+    "slug": "spectre-x360-14",
+    "price": 139990,
+    "currency": "RUB",
+    "inStock": true,
+    "shortDescription": "Трансформер с OLED-дисплеем и Intel Core Ultra.",
+    "description": "Spectre x360 — премиальный ноутбук 2-в-1 с сенсорным OLED-дисплеем и длительной автономностью.",
+    "categories": [
+      "Ноутбуки"
+    ],
+    "tags": [
+      "HP",
+      "Ноутбуки"
+    ],
+    "specs": {},
+    "images": "",
+    "isNew": false,
+    "sale": 5
+  },
+  {
+    "id": 10,
+    "name": "WH-1000XM5",
+    "brand": "Sony",
+    "slug": "wh-1000xm5",
+    "price": 37990,
+    "currency": "RUB",
+    "inStock": true,
+    "shortDescription": "Флагманские наушники с шумоподавлением.",
+    "description": "Sony WH-1000XM5 обеспечивают лучшее активное шумоподавление и до 30 часов автономной работы.",
+    "categories": [
+      "Наушники"
+    ],
+    "tags": [
+      "Sony",
+      "Наушники"
+    ],
+    "specs": {},
+    "images": "",
+    "isNew": false,
+    "sale": 25
+  },
+  {
+    "id": 11,
+    "name": "AirPods Pro 2",
+    "brand": "Apple",
+    "slug": "airpods-pro-2",
+    "price": 29990,
+    "currency": "RUB",
+    "inStock": true,
+    "shortDescription": "Беспроводные наушники с ANC и Adaptive Audio.",
+    "description": "AirPods Pro 2 предлагают улучшенное шумоподавление, Spatial Audio и чехол MagSafe.",
+    "categories": [
+      "Наушники"
+    ],
+    "tags": [
+      "Apple",
+      "Наушники"
+    ],
+    "specs": {},
+    "images": "",
+    "isNew": true,
+    "sale": 0
+  },
+  {
+    "id": 12,
+    "name": "Momentum 4 Wireless",
+    "brand": "Sennheiser",
+    "slug": "momentum-4-wireless",
+    "price": 32990,
+    "currency": "RUB",
+    "inStock": true,
+    "shortDescription": "Наушники премиум-класса с детализированным звуком.",
+    "description": "Momentum 4 Wireless обеспечивают студийное качество звука и до 60 часов автономности.",
+    "categories": [
+      "Наушники"
+    ],
+    "tags": [
+      "Sennheiser",
+      "Наушники"
+    ],
+    "specs": {},
+    "images": "",
+    "isNew": false,
+    "sale": 20
+  },
+  {
+    "id": 13,
+    "name": "PlayStation 5 Pro",
+    "brand": "Sony",
+    "slug": "playstation-5-pro",
+    "price": 69990,
+    "currency": "RUB",
+    "inStock": true,
+    "shortDescription": "Новая версия PS5 с поддержкой 8K-графики.",
+    "description": "PlayStation 5 Pro оснащена улучшенным GPU и поддержкой рендеринга 8K.",
+    "categories": [
+      "Игровые консоли"
+    ],
+    "tags": [
+      "Sony",
+      "Игровые консоли"
+    ],
+    "specs": {},
+    "images": "",
+    "isNew": true,
+    "sale": 0
+  },
+  {
+    "id": 14,
+    "name": "Xbox Series X",
+    "brand": "Microsoft",
+    "slug": "xbox-series-x",
+    "price": 58990,
+    "currency": "RUB",
+    "inStock": true,
+    "shortDescription": "Консоль нового поколения с поддержкой 4K.",
+    "description": "Xbox Series X обеспечивает высокую производительность и Game Pass экосистему.",
+    "categories": [
+      "Игровые консоли"
+    ],
+    "tags": [
+      "Microsoft",
+      "Игровые консоли"
+    ],
+    "specs": {},
+    "images": "",
+    "isNew": false,
+    "sale": 0
+  },
+  {
+    "id": 15,
+    "name": "Switch OLED",
+    "brand": "Nintendo",
+    "slug": "switch-oled",
+    "price": 34990,
+    "currency": "RUB",
+    "inStock": true,
+    "shortDescription": "Гибридная консоль с улучшенным OLED-дисплеем.",
+    "description": "Switch OLED сочетает портативность и настольный гейминг с новым ярким экраном.",
+    "categories": [
+      "Игровые консоли"
+    ],
+    "tags": [
+      "Nintendo",
+      "Игровые консоли"
+    ],
+    "specs": {},
+    "images": "",
+    "isNew": false,
+    "sale": 5
+  },
+  {
+    "id": 16,
+    "name": "Apple Watch Series 10",
+    "brand": "Apple",
+    "slug": "apple-watch-series-10",
+    "price": 45990,
+    "currency": "RUB",
+    "inStock": true,
+    "shortDescription": "Новые часы Apple с дисплеем MicroLED.",
+    "description": "Apple Watch Series 10 предлагают улучшенный экран, датчики здоровья и интеграцию с iPhone.",
+    "categories": [
+      "Смарт-часы"
+    ],
+    "tags": [
+      "Apple",
+      "Смарт-часы"
+    ],
+    "specs": {},
+    "images": "",
+    "isNew": true,
+    "sale": 0
+  },
+  {
+    "id": 17,
+    "name": "Galaxy Watch 7",
+    "brand": "Samsung",
+    "slug": "galaxy-watch-7",
+    "price": 38990,
+    "currency": "RUB",
+    "inStock": true,
+    "shortDescription": "Смарт-часы Samsung с датчиками здоровья нового поколения.",
+    "description": "Galaxy Watch 7 обеспечивают точное отслеживание активности и работу более 2 дней.",
+    "categories": [
+      "Смарт-часы"
+    ],
+    "tags": [
+      "Samsung",
+      "Смарт-часы"
+    ],
+    "specs": {},
+    "images": "",
+    "isNew": true,
+    "sale": 0
+  },
+  {
+    "id": 18,
+    "name": "Watch GT 4",
+    "brand": "Huawei",
+    "slug": "watch-gt-4",
+    "price": 24990,
+    "currency": "RUB",
+    "inStock": true,
+    "shortDescription": "Стильные часы с длительной автономностью.",
+    "description": "Watch GT 4 выделяются дизайном и временем работы до 14 дней.",
+    "categories": [
+      "Смарт-часы"
+    ],
+    "tags": [
+      "Huawei",
+      "Смарт-часы"
+    ],
+    "specs": {},
+    "images": "",
+    "isNew": false,
+    "sale": 30
+  },
+  {
+    "id": 19,
+    "name": "MX Master 3S",
+    "brand": "Logitech",
+    "slug": "mx-master-3s",
+    "price": 9990,
+    "currency": "RUB",
+    "inStock": true,
+    "shortDescription": "Премиум-мышь для продуктивности.",
+    "description": "MX Master 3S отличается точностью, тишиной кликов и удобной эргономикой.",
+    "categories": [
+      "Периферия"
+    ],
+    "tags": [
+      "Logitech",
+      "Периферия"
+    ],
+    "specs": {},
+    "images": "",
+    "isNew": false,
+    "sale": 0
+  },
+  {
+    "id": 20,
+    "name": "Keyrox TKL RGB",
+    "brand": "Red Square",
+    "slug": "keyrox-tkl-rgb",
+    "price": 6990,
+    "currency": "RUB",
+    "inStock": true,
+    "shortDescription": "Механическая клавиатура с RGB-подсветкой.",
+    "description": "Red Square Keyrox TKL — компактная клавиатура с переключателями Outemu Blue и яркой подсветкой.",
+    "categories": [
+      "Периферия"
+    ],
+    "tags": [
+      "Red Square",
+      "Периферия"
+    ],
+    "specs": {},
+    "images": "",
+    "isNew": false,
+    "sale": 15
+  },
+  {
+    "id": 21,
+    "name": "DeathAdder V3 Pro",
+    "brand": "Razer",
+    "slug": "deathadder-v3-pro",
+    "price": 12990,
+    "currency": "RUB",
+    "inStock": true,
+    "shortDescription": "Игровая мышь с сенсором 30K DPI.",
+    "description": "DeathAdder V3 Pro — сверхлёгкая беспроводная мышь для профессиональных геймеров.",
+    "categories": [
+      "Периферия"
+    ],
+    "tags": [
+      "Razer",
+      "Периферия"
+    ],
+    "specs": {},
+    "images": "",
+    "isNew": true,
+    "sale": 0
+  },
+  {
+    "id": 22,
+    "name": "UltraGear 27GP850",
+    "brand": "LG",
+    "slug": "ultragear-27gp850",
+    "price": 32990,
+    "currency": "RUB",
+    "inStock": true,
+    "shortDescription": "Игровой монитор QHD 165 Гц.",
+    "description": "LG UltraGear 27GP850 предлагает быстрое время отклика и отличную цветопередачу.",
+    "categories": [
+      "Мониторы"
+    ],
+    "tags": [
+      "LG",
+      "Мониторы"
+    ],
+    "specs": {},
+    "images": "",
+    "isNew": false,
+    "sale": 5
+  },
+  {
+    "id": 23,
+    "name": "ProArt Display PA279CV",
+    "brand": "ASUS",
+    "slug": "proart-display-pa279cv",
+    "price": 44990,
+    "currency": "RUB",
+    "inStock": true,
+    "shortDescription": "Монитор для дизайнеров с цветовой точностью Delta E<2.",
+    "description": "ASUS ProArt Display — профессиональный монитор с 4K-разрешением и точной цветопередачей.",
+    "categories": [
+      "Мониторы"
+    ],
+    "tags": [
+      "ASUS",
+      "Мониторы"
+    ],
+    "specs": {},
+    "images": "",
+    "isNew": false,
+    "sale": 25
+  },
+  {
+    "id": 24,
+    "name": "Neo QLED QN90C 55\"",
+    "brand": "Samsung",
+    "slug": "neo-qled-qn90c-55\"",
+    "price": 129990,
+    "currency": "RUB",
+    "inStock": true,
+    "shortDescription": "Телевизор 4K с подсветкой Mini LED.",
+    "description": "Samsung QN90C обеспечивает яркое изображение и поддержку HDR10+.",
+    "categories": [
+      "Телевизоры"
+    ],
+    "tags": [
+      "Samsung",
+      "Телевизоры"
+    ],
+    "specs": {},
+    "images": "",
+    "isNew": false,
+    "sale": 20
+  },
+  {
+    "id": 25,
+    "name": "OLED C3 55\"",
+    "brand": "LG",
+    "slug": "oled-c3-55\"",
+    "price": 139990,
+    "currency": "RUB",
+    "inStock": true,
+    "shortDescription": "OLED-телевизор с превосходной контрастностью.",
+    "description": "LG OLED C3 — один из лучших телевизоров для фильмов и игр.",
+    "categories": [
+      "Телевизоры"
+    ],
+    "tags": [
+      "LG",
+      "Телевизоры"
+    ],
+    "specs": {},
+    "images": "",
+    "isNew": true,
+    "sale": 0
+  }
+]
