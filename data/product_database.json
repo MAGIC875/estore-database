@@ -21,7 +21,9 @@
       "Память": "128 ГБ",
       "Процессор": "A18 Pro"
     },
-    "images": "https://github.com/MAGIC875/estore-database/blob/9c895ba22e4085601c8bfe8e8effd2caf6ab589a/images/iPhone17Pro.jpg",
+    "images": [
+      "https://github.com/MAGIC875/estore-database/blob/9c895ba22e4085601c8bfe8e8effd2caf6ab589a/images/iPhone17Pro.jpg"
+    ],
     "isNew": true,
     "sale": 0
   },
