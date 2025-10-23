@@ -21,7 +21,7 @@
       "Память": "128 ГБ",
       "Процессор": "A18 Pro"
     },
-    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/public/images/iPhone17Pro.jpg",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/iPhone17Pro.jpg",
     "isNew": true,
     "sale": 0
   },
@@ -47,7 +47,7 @@
       "Память": "256 ГБ",
       "Процессор": "Snapdragon 8 Gen 3"
     },
-    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/public/GalaxyS24Ultra.jpg",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/GalaxyS24Ultra.jpg",
     "isNew": true,
     "sale": 0
   },
@@ -97,7 +97,7 @@
       "Камера": "50 Мп",
       "Процессор": "Tensor G3"
     },
-    "images": "https://github.com/MAGIC875/estore-database/blob/9c895ba22e4085601c8bfe8e8effd2caf6ab589a/images/Pixel8.jpg",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/Pixel8.jpg",
     "isNew": false,
     "sale": 25
   },
@@ -119,7 +119,7 @@
       "Смартфоны"
     ],
     "specs": {},
-    "images": "https://github.com/MAGIC875/estore-database/blob/9c895ba22e4085601c8bfe8e8effd2caf6ab589a/images/Magic6Pro.jpg",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/Magic6Pro.jpg",
     "isNew": true,
     "sale": 0
   },
@@ -145,7 +145,7 @@
       "Экран": "14\"",
       "Память": "16 ГБ"
     },
-    "images": "https://github.com/MAGIC875/estore-database/blob/9c895ba22e4085601c8bfe8e8effd2caf6ab589a/images/MacBookPro14M4.jpeg",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/MacBookPro14M4.jpeg",
     "isNew": true,
     "sale": 0
   },
@@ -170,7 +170,7 @@
       "GPU": "RTX 4070",
       "CPU": "Ryzen 9 7940HS"
     },
-    "images": "https://github.com/MAGIC875/estore-database/blob/9c895ba22e4085601c8bfe8e8effd2caf6ab589a/images/ROGZephyrusG14.png",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/ROGZephyrusG14.png",
     "isNew": false,
     "sale": 10
   },
@@ -195,7 +195,7 @@
       "GPU": "RTX 4060",
       "CPU": "Ryzen 7"
     },
-    "images": "https://github.com/MAGIC875/estore-database/blob/9c895ba22e4085601c8bfe8e8effd2caf6ab589a/images/Legion5Pro.jpg",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/Legion5Pro.jpg",
     "isNew": false,
     "sale": 10
   },
@@ -217,7 +217,7 @@
       "Ноутбуки"
     ],
     "specs": {},
-    "images": "https://github.com/MAGIC875/estore-database/blob/9c895ba22e4085601c8bfe8e8effd2caf6ab589a/images/Spectrex360_14.jpg",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/Spectrex360_14.jpg",
     "isNew": false,
     "sale": 5
   },
@@ -239,7 +239,7 @@
       "Наушники"
     ],
     "specs": {},
-    "images": "https://github.com/MAGIC875/estore-database/blob/9c895ba22e4085601c8bfe8e8effd2caf6ab589a/images/WH-1000XM5.jpg",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/WH-1000XM5.jpg",
     "isNew": false,
     "sale": 25
   },
@@ -283,7 +283,7 @@
       "Наушники"
     ],
     "specs": {},
-    "images": "https://github.com/MAGIC875/estore-database/blob/9c895ba22e4085601c8bfe8e8effd2caf6ab589a/images/Momentum4Wireless.png",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/Momentum4Wireless.png",
     "isNew": false,
     "sale": 20
   },
@@ -327,7 +327,7 @@
       "Игровые консоли"
     ],
     "specs": {},
-    "images": "https://github.com/MAGIC875/estore-database/blob/9c895ba22e4085601c8bfe8e8effd2caf6ab589a/images/XboxSeriesX.jpg",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/XboxSeriesX.jpg",
     "isNew": false,
     "sale": 0
   },
@@ -349,7 +349,7 @@
       "Игровые консоли"
     ],
     "specs": {},
-    "images": "https://github.com/MAGIC875/estore-database/blob/9c895ba22e4085601c8bfe8e8effd2caf6ab589a/images/SwitchOLED.jpg",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/SwitchOLED.jpg",
     "isNew": false,
     "sale": 5
   },
@@ -393,7 +393,7 @@
       "Смарт-часы"
     ],
     "specs": {},
-    "images": "https://github.com/MAGIC875/estore-database/blob/9c895ba22e4085601c8bfe8e8effd2caf6ab589a/images/GalaxyWatch7.jpg",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/GalaxyWatch7.jpg",
     "isNew": true,
     "sale": 0
   },
@@ -415,7 +415,7 @@
       "Смарт-часы"
     ],
     "specs": {},
-    "images": "https://github.com/MAGIC875/estore-database/blob/9c895ba22e4085601c8bfe8e8effd2caf6ab589a/images/WatchGT4.jpg",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/WatchGT4.jpg",
     "isNew": false,
     "sale": 30
   },
@@ -437,7 +437,7 @@
       "Периферия"
     ],
     "specs": {},
-    "images": "https://github.com/MAGIC875/estore-database/blob/9c895ba22e4085601c8bfe8e8effd2caf6ab589a/images/MX_Master3S.webp",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/MX_Master3S.webp",
     "isNew": false,
     "sale": 0
   },
@@ -481,7 +481,7 @@
       "Периферия"
     ],
     "specs": {},
-    "images": "https://github.com/MAGIC875/estore-database/blob/9c895ba22e4085601c8bfe8e8effd2caf6ab589a/images/DeathAdderV3Pro.jpg",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/DeathAdderV3Pro.jpg",
     "isNew": true,
     "sale": 0
   },
@@ -503,7 +503,7 @@
       "Мониторы"
     ],
     "specs": {},
-    "images": "",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/UtraGear27GP850.jpg",
     "isNew": false,
     "sale": 5
   },
