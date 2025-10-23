@@ -48,7 +48,7 @@
       "Процессор": "Snapdragon 8 Gen 3"
     },
     "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/GalaxyS24Ultra.jpg",
-    "isNew": true,
+    "isNew": false,
     "sale": 0
   },
   {
@@ -262,7 +262,7 @@
     ],
     "specs": {},
     "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/airpods2pro.webp",
-    "isNew": true,
+    "isNew": false,
     "sale": 0
   },
   {
@@ -351,7 +351,7 @@
     "specs": {},
     "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/SwitchOLED.jpg",
     "isNew": false,
-    "sale": 5
+    "sale": 0
   },
   {
     "id": 16,
@@ -372,7 +372,7 @@
     ],
     "specs": {},
     "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/AppleWatchSeries10.jpeg",
-    "isNew": true,
+    "isNew": false,
     "sale": 0
   },
   {
@@ -505,7 +505,7 @@
     "specs": {},
     "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/UltraGear27GP850.jpg",
     "isNew": false,
-    "sale": 5
+    "sale": 0
   },
   {
     "id": 23,
