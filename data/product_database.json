@@ -261,7 +261,7 @@
       "Наушники"
     ],
     "specs": {},
-    "images": "",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/airpods2pro.webp",
     "isNew": true,
     "sale": 0
   },
@@ -305,7 +305,7 @@
       "Игровые консоли"
     ],
     "specs": {},
-    "images": "",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/ps5pro.JPG",
     "isNew": true,
     "sale": 0
   },
@@ -371,7 +371,7 @@
       "Смарт-часы"
     ],
     "specs": {},
-    "images": "",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/AppleWatchSeries10.jpeg",
     "isNew": true,
     "sale": 0
   },
@@ -547,7 +547,7 @@
       "Телевизоры"
     ],
     "specs": {},
-    "images": "",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/NeoQLED_QN90C.JPG",
     "isNew": false,
     "sale": 20
   },
@@ -569,7 +569,7 @@
       "Телевизоры"
     ],
     "specs": {},
-    "images": "",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/OLED_C3_55.jpeg",
     "isNew": true,
     "sale": 0
   }
