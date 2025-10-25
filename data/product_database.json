@@ -572,5 +572,501 @@
     "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/OLED_C3_55.jpeg",
     "isNew": true,
     "sale": 0
+  },
+  {
+    "id": 26,
+    "name": "Nothing Phone 2",
+    "brand": "Nothing",
+    "slug": "nothing-phone-2",
+    "price": 59990,
+    "currency": "RUB",
+    "inStock": true,
+    "shortDescription": "Смартфон с прозрачным дизайном и светодиодной подсветкой Glyph.",
+    "description": "Nothing Phone 2 — стильный смартфон на базе Snapdragon 8+ Gen 1 с уникальной подсветкой и OLED-дисплеем.",
+    "categories": [
+      "Смартфоны"
+    ],
+    "tags": [
+      "Nothing",
+      "Смартфоны"
+    ],
+    "specs": {},
+    "images": "",
+    "isNew": false,
+    "sale": 5
+  },
+  {
+    "id": 27,
+    "name": "XPS 15 OLED",
+    "brand": "Dell",
+    "slug": "xps-15-oled",
+    "price": 199990,
+    "currency": "RUB",
+    "inStock": true,
+    "shortDescription": "Премиальный ноутбук с OLED-дисплеем и Core Ultra.",
+    "description": "Dell XPS 15 сочетает тонкий корпус, экран OLED 3.5K и мощный процессор Intel Core Ultra 7.",
+    "categories": [
+      "Ноутбуки"
+    ],
+    "tags": [
+      "Dell",
+      "Ноутбуки"
+    ],
+    "specs": {
+      "Процессор": "Intel Core Ultra 7",
+      "Экран": "15.6\" OLED",
+      "Память": "16 ГБ"
+    },
+    "images": "",
+    "isNew": true,
+    "sale": 0
+  },
+  {
+    "id": 28,
+    "name": "Stealth 16 Studio",
+    "brand": "MSI",
+    "slug": "stealth-16-studio",
+    "price": 179990,
+    "currency": "RUB",
+    "inStock": true,
+    "shortDescription": "Игровой ноутбук с RTX 4070 и дизайном премиум-класса.",
+    "description": "MSI Stealth 16 Studio — лёгкий ноутбук для геймеров и создателей контента.",
+    "categories": [
+      "Ноутбуки"
+    ],
+    "tags": [
+      "MSI",
+      "Ноутбуки"
+    ],
+    "specs": {
+      "GPU": "RTX 4070",
+      "CPU": "Intel i9-13900H",
+      "Экран": "16\" QHD"
+    },
+    "images": "",
+    "isNew": false,
+    "sale": 5
+  },
+  {
+    "id": 29,
+    "name": "QuietComfort Ultra",
+    "brand": "Bose",
+    "slug": "quietcomfort-ultra",
+    "price": 39990,
+    "currency": "RUB",
+    "inStock": true,
+    "shortDescription": "Наушники с активным шумоподавлением и пространственным звуком.",
+    "description": "Bose QuietComfort Ultra обеспечивают комфорт, детализацию звука и эффективное шумоподавление.",
+    "categories": [
+      "Наушники"
+    ],
+    "tags": [
+      "Bose",
+      "Наушники"
+    ],
+    "specs": {},
+    "images": "",
+    "isNew": false,
+    "sale": 15
+  },
+  {
+    "id": 30,
+    "name": "Beats Studio Pro",
+    "brand": "Beats",
+    "slug": "beats-studio-pro",
+    "price": 34990,
+    "currency": "RUB",
+    "inStock": true,
+    "shortDescription": "Фирменные наушники Beats с мощным басом и ANC.",
+    "description": "Beats Studio Pro предлагают чистый звук, длительную автономность и поддержку USB‑C.",
+    "categories": [
+      "Наушники"
+    ],
+    "tags": [
+      "Beats",
+      "Наушники"
+    ],
+    "specs": {},
+    "images": "",
+    "isNew": false,
+    "sale": 10
+  },
+  {
+    "id": 31,
+    "name": "PlayStation Portal",
+    "brand": "Sony",
+    "slug": "playstation-portal",
+    "price": 29990,
+    "currency": "RUB",
+    "inStock": true,
+    "shortDescription": "Портативная консоль для стриминга игр с PS5.",
+    "description": "PlayStation Portal позволяет играть в игры с PS5 через удалённый доступ, оснащена 8\" экраном.",
+    "categories": [
+      "Игровые консоли"
+    ],
+    "tags": [
+      "Sony",
+      "Игровые консоли"
+    ],
+    "specs": {},
+    "images": "",
+    "isNew": true,
+    "sale": 0
+  },
+  {
+    "id": 32,
+    "name": "Steam Deck OLED",
+    "brand": "Valve",
+    "slug": "steam-deck-oled",
+    "price": 69990,
+    "currency": "RUB",
+    "inStock": true,
+    "shortDescription": "Портативная игровая консоль с OLED-дисплеем.",
+    "description": "Steam Deck OLED — улучшенная версия консоли Valve с HDR-дисплеем и большей автономностью.",
+    "categories": [
+      "Игровые консоли"
+    ],
+    "tags": [
+      "Valve",
+      "Игровые консоли"
+    ],
+    "specs": {},
+    "images": "",
+    "isNew": false,
+    "sale": 5
+  },
+  {
+    "id": 33,
+    "name": "Fenix 7 Pro",
+    "brand": "Garmin",
+    "slug": "fenix-7-pro",
+    "price": 64990,
+    "currency": "RUB",
+    "inStock": true,
+    "shortDescription": "Продвинутые спортивные часы с солнечной зарядкой.",
+    "description": "Garmin Fenix 7 Pro предлагает навигацию, спортивные функции и длительное время работы.",
+    "categories": [
+      "Смарт-часы"
+    ],
+    "tags": [
+      "Garmin",
+      "Смарт-часы"
+    ],
+    "specs": {},
+    "images": "",
+    "isNew": false,
+    "sale": 0
+  },
+  {
+    "id": 34,
+    "name": "Pixel Watch 2",
+    "brand": "Google",
+    "slug": "pixel-watch-2",
+    "price": 39990,
+    "currency": "RUB",
+    "inStock": true,
+    "shortDescription": "Умные часы Google с Wear OS 4 и датчиками здоровья.",
+    "description": "Pixel Watch 2 оснащены процессором Snapdragon W5 и интеграцией с Fitbit.",
+    "categories": [
+      "Смарт-часы"
+    ],
+    "tags": [
+      "Google",
+      "Смарт-часы"
+    ],
+    "specs": {},
+    "images": "",
+    "isNew": true,
+    "sale": 0
+  },
+  {
+    "id": 35,
+    "name": "Apex Pro TKL Wireless",
+    "brand": "SteelSeries",
+    "slug": "apex-pro-tkl-wireless",
+    "price": 24990,
+    "currency": "RUB",
+    "inStock": true,
+    "shortDescription": "Механическая клавиатура с регулируемыми свитчами OmniPoint 2.0.",
+    "description": "SteelSeries Apex Pro TKL — беспроводная клавиатура с OLED-дисплеем и алюминиевым корпусом.",
+    "categories": [
+      "Периферия"
+    ],
+    "tags": [
+      "SteelSeries",
+      "Периферия"
+    ],
+    "specs": {},
+    "images": "",
+    "isNew": true,
+    "sale": 0
+  },
+  {
+    "id": 36,
+    "name": "G Pro X Superlight 2",
+    "brand": "Logitech",
+    "slug": "g-pro-x-superlight-2",
+    "price": 15990,
+    "currency": "RUB",
+    "inStock": true,
+    "shortDescription": "Сверхлёгкая игровая мышь с сенсором HERO 2.",
+    "description": "Logitech G Pro X Superlight 2 — профессиональная мышь для киберспорта весом всего 60 г.",
+    "categories": [
+      "Периферия"
+    ],
+    "tags": [
+      "Logitech",
+      "Периферия"
+    ],
+    "specs": {},
+    "images": "",
+    "isNew": false,
+    "sale": 0
+  },
+  {
+    "id": 37,
+    "name": "Odyssey G8 OLED",
+    "brand": "Samsung",
+    "slug": "odyssey-g8-oled",
+    "price": 89990,
+    "currency": "RUB",
+    "inStock": true,
+    "shortDescription": "Игровой монитор 34\" с изогнутым OLED-дисплеем.",
+    "description": "Samsung Odyssey G8 OLED обеспечивает насыщенные цвета, отклик 0.03 мс и частоту 175 Гц.",
+    "categories": [
+      "Мониторы"
+    ],
+    "tags": [
+      "Samsung",
+      "Мониторы"
+    ],
+    "specs": {},
+    "images": "",
+    "isNew": true,
+    "sale": 0
+  },
+  {
+    "id": 38,
+    "name": "M32U 4K",
+    "brand": "Gigabyte",
+    "slug": "m32u-4k",
+    "price": 59990,
+    "currency": "RUB",
+    "inStock": true,
+    "shortDescription": "Монитор 4K 144 Гц для игр и работы.",
+    "description": "Gigabyte M32U сочетает высокое разрешение, частоту 144 Гц и поддержку HDMI 2.1.",
+    "categories": [
+      "Мониторы"
+    ],
+    "tags": [
+      "Gigabyte",
+      "Мониторы"
+    ],
+    "specs": {},
+    "images": "",
+    "isNew": false,
+    "sale": 5
+  },
+  {
+    "id": 39,
+    "name": "Bravia XR A95L 55\"",
+    "brand": "Sony",
+    "slug": "bravia-xr-a95l-55\"",
+    "price": 199990,
+    "currency": "RUB",
+    "inStock": true,
+    "shortDescription": "Флагманский OLED-телевизор Sony с XR-процессором.",
+    "description": "Bravia A95L обеспечивает глубокий чёрный цвет и потрясающее качество HDR.",
+    "categories": [
+      "Телевизоры"
+    ],
+    "tags": [
+      "Sony",
+      "Телевизоры"
+    ],
+    "specs": {},
+    "images": "",
+    "isNew": false,
+    "sale": 25
+  },
+  {
+    "id": 40,
+    "name": "ULED X 65\"",
+    "brand": "Hisense",
+    "slug": "uled-x-65\"",
+    "price": 159990,
+    "currency": "RUB",
+    "inStock": true,
+    "shortDescription": "Премиум-телевизор с Mini LED-подсветкой и 144 Гц.",
+    "description": "Hisense ULED X поддерживает Dolby Vision и выдаёт пиковую яркость до 2500 нит.",
+    "categories": [
+      "Телевизоры"
+    ],
+    "tags": [
+      "Hisense",
+      "Телевизоры"
+    ],
+    "specs": {},
+    "images": "",
+    "isNew": true,
+    "sale": 0
+  },
+  {
+    "id": 41,
+    "name": "Charge 6",
+    "brand": "JBL",
+    "slug": "charge-6",
+    "price": 14990,
+    "currency": "RUB",
+    "inStock": true,
+    "shortDescription": "Портативная колонка с защитой IP67 и мощным звуком.",
+    "description": "JBL Charge 6 обеспечивает до 20 часов музыки и возможность зарядки других устройств.",
+    "categories": [
+      "Колонки"
+    ],
+    "tags": [
+      "JBL",
+      "Колонки"
+    ],
+    "specs": {},
+    "images": "",
+    "isNew": true,
+    "sale": 0
+  },
+  {
+    "id": 42,
+    "name": "SRS-XG500",
+    "brand": "Sony",
+    "slug": "srs-xg500",
+    "price": 29990,
+    "currency": "RUB",
+    "inStock": true,
+    "shortDescription": "Bluetooth-колонка с подсветкой и защитой от влаги.",
+    "description": "Sony XG500 выдаёт громкий звук и работает до 30 часов.",
+    "categories": [
+      "Колонки"
+    ],
+    "tags": [
+      "Sony",
+      "Колонки"
+    ],
+    "specs": {},
+    "images": "",
+    "isNew": false,
+    "sale": 5
+  },
+  {
+    "id": 43,
+    "name": "Emberton II",
+    "brand": "Marshall",
+    "slug": "emberton-ii",
+    "price": 19990,
+    "currency": "RUB",
+    "inStock": false,
+    "shortDescription": "Компактная колонка с легендарным звуком Marshall.",
+    "description": "Emberton II обеспечивает мощный звук и поддержку Bluetooth 5.1.",
+    "categories": [
+      "Колонки"
+    ],
+    "tags": [
+      "Marshall",
+      "Колонки"
+    ],
+    "specs": {},
+    "images": "",
+    "isNew": false,
+    "sale": 15
+  },
+  {
+    "id": 44,
+    "name": "Yeti X",
+    "brand": "Blue",
+    "slug": "yeti-x",
+    "price": 18990,
+    "currency": "RUB",
+    "inStock": true,
+    "shortDescription": "USB-микрофон для стримеров и подкастеров.",
+    "description": "Blue Yeti X обеспечивает студийное качество звука и встроенный регулятор усиления.",
+    "categories": [
+      "Микрофоны"
+    ],
+    "tags": [
+      "Blue",
+      "Микрофоны"
+    ],
+    "specs": {},
+    "images": "",
+    "isNew": false,
+    "sale": 15
+  },
+  {
+    "id": 45,
+    "name": "NT-USB Mini",
+    "brand": "Rode",
+    "slug": "nt-usb-mini",
+    "price": 12990,
+    "currency": "RUB",
+    "inStock": false,
+    "shortDescription": "Компактный USB-микрофон для записи и стримов.",
+    "description": "Rode NT-USB Mini предлагает чистый звук и магнитное крепление.",
+    "categories": [
+      "Микрофоны"
+    ],
+    "tags": [
+      "Rode",
+      "Микрофоны"
+    ],
+    "specs": {},
+    "images": "",
+    "isNew": false,
+    "sale": 25
+  },
+  {
+    "id": 46,
+    "name": "QuadCast S",
+    "brand": "HyperX",
+    "slug": "quadcast-s",
+    "price": 16990,
+    "currency": "RUB",
+    "inStock": true,
+    "shortDescription": "Игровой микрофон с RGB-подсветкой и шумоподавлением.",
+    "description": "HyperX QuadCast S — микрофон с 4 режимами направленности и встроенным антишоковым креплением.",
+    "categories": [
+      "Микрофоны"
+    ],
+    "tags": [
+      "HyperX",
+      "Микрофоны"
+    ],
+    "specs": {},
+    "images": "",
+    "isNew": true,
+    "sale": 0
+  },
+  {
+    "id": 47,
+    "name": "OnePlus 12 256GB",
+    "brand": "OnePlus",
+    "slug": "oneplus-12-256gb",
+    "price": 89990,
+    "currency": "RUB",
+    "inStock": true,
+    "shortDescription": "Флагман OnePlus с дисплеем 120 Гц и Snapdragon 8 Gen 3.",
+    "description": "OnePlus 12 оснащён AMOLED-дисплеем 120 Гц, камерой Hasselblad и быстрой зарядкой 100 Вт.",
+    "categories": [
+      "Смартфоны"
+    ],
+    "tags": [
+      "OnePlus",
+      "Смартфоны"
+    ],
+    "specs": {
+      "Процессор": "Snapdragon 8 Gen 3",
+      "Память": "256 ГБ",
+      "Камера": "50 Мп"
+    },
+    "images": "",
+    "isNew": true,
+    "sale": 0
   }
 ]
