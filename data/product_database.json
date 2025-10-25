@@ -591,7 +591,7 @@
       "Смартфоны"
     ],
     "specs": {},
-    "images": "",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/NothingPhone2.jpg",
     "isNew": false,
     "sale": 5
   },
@@ -617,7 +617,7 @@
       "Экран": "15.6\" OLED",
       "Память": "16 ГБ"
     },
-    "images": "",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/XPS_15_OLED.jpg",
     "isNew": true,
     "sale": 0
   },
@@ -643,7 +643,7 @@
       "CPU": "Intel i9-13900H",
       "Экран": "16\" QHD"
     },
-    "images": "",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/Stealth16_Studio.jpg",
     "isNew": false,
     "sale": 5
   },
@@ -665,7 +665,7 @@
       "Наушники"
     ],
     "specs": {},
-    "images": "",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/QuietComfortUltra.jpg",
     "isNew": false,
     "sale": 15
   },
@@ -687,7 +687,7 @@
       "Наушники"
     ],
     "specs": {},
-    "images": "",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/BeatsStudioPro.jpeg",
     "isNew": false,
     "sale": 10
   },
@@ -709,7 +709,7 @@
       "Игровые консоли"
     ],
     "specs": {},
-    "images": "",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/PlayStationPortal.png",
     "isNew": true,
     "sale": 0
   },
@@ -731,7 +731,7 @@
       "Игровые консоли"
     ],
     "specs": {},
-    "images": "",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/SteamDeckOLED.webp",
     "isNew": false,
     "sale": 5
   },
@@ -753,7 +753,7 @@
       "Смарт-часы"
     ],
     "specs": {},
-    "images": "",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/Fenix7Pro.png",
     "isNew": false,
     "sale": 0
   },
@@ -775,7 +775,7 @@
       "Смарт-часы"
     ],
     "specs": {},
-    "images": "",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/PixelWatch2.jpg",
     "isNew": true,
     "sale": 0
   },
@@ -797,7 +797,7 @@
       "Периферия"
     ],
     "specs": {},
-    "images": "",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/ApexProTKL_Wireless.webp",
     "isNew": true,
     "sale": 0
   },
@@ -819,7 +819,7 @@
       "Периферия"
     ],
     "specs": {},
-    "images": "",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/GProX_Superlight2.png",
     "isNew": false,
     "sale": 0
   },
@@ -841,7 +841,7 @@
       "Мониторы"
     ],
     "specs": {},
-    "images": "",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/",
     "isNew": true,
     "sale": 0
   },
@@ -863,7 +863,7 @@
       "Мониторы"
     ],
     "specs": {},
-    "images": "",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/M32U_4K.webp",
     "isNew": false,
     "sale": 5
   },
@@ -885,13 +885,13 @@
       "Телевизоры"
     ],
     "specs": {},
-    "images": "",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/",
     "isNew": false,
     "sale": 25
   },
   {
     "id": 40,
-    "name": "ULED X 65\"",
+    "name": "ULED X 65",
     "brand": "Hisense",
     "slug": "uled-x-65\"",
     "price": 159990,
@@ -907,7 +907,7 @@
       "Телевизоры"
     ],
     "specs": {},
-    "images": "",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/ULED_X_65.png",
     "isNew": true,
     "sale": 0
   },
@@ -929,7 +929,7 @@
       "Колонки"
     ],
     "specs": {},
-    "images": "",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/Charge6.jpg",
     "isNew": true,
     "sale": 0
   },
@@ -951,7 +951,7 @@
       "Колонки"
     ],
     "specs": {},
-    "images": "",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/",
     "isNew": false,
     "sale": 5
   },
@@ -973,13 +973,13 @@
       "Колонки"
     ],
     "specs": {},
-    "images": "",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/",
     "isNew": false,
     "sale": 15
   },
   {
     "id": 44,
-    "name": "Yeti X",
+    "name": "BlueYeti X",
     "brand": "Blue",
     "slug": "yeti-x",
     "price": 18990,
@@ -995,7 +995,7 @@
       "Микрофоны"
     ],
     "specs": {},
-    "images": "",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/",
     "isNew": false,
     "sale": 15
   },
@@ -1017,7 +1017,7 @@
       "Микрофоны"
     ],
     "specs": {},
-    "images": "",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/NT-USB_Mini.webp",
     "isNew": false,
     "sale": 25
   },
@@ -1039,7 +1039,7 @@
       "Микрофоны"
     ],
     "specs": {},
-    "images": "",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/QuadCast_S.webp",
     "isNew": true,
     "sale": 0
   },
@@ -1065,7 +1065,7 @@
       "Память": "256 ГБ",
       "Камера": "50 Мп"
     },
-    "images": "",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/OnePlus_12_256GB.jpg",
     "isNew": true,
     "sale": 0
   }
