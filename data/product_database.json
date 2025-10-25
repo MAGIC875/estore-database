@@ -1069,4 +1069,67 @@
     "isNew": true,
     "sale": 0
   }
+  {
+  "id": 48,
+  "name": "Edifier MR4",
+  "brand": "Edifier",
+  "slug": "edifier-mr4",
+  "price": 13990,
+  "currency": "RUB",
+  "inStock": true,
+  "shortDescription": "Студийные мониторы с точной звуковой сценой и балансом частот.",
+  "description": "Edifier MR4 — это активные студийные мониторы с 1-дюймовыми твиттерами и 4-дюймовыми низкочастотными динамиками, обеспечивающие чистое и сбалансированное звучание. Подойдут как для продакшна, так и для повседневного прослушивания.",
+  "categories": ["Колонки"],
+  "tags": ["Edifier", "Колонки"],
+  "specs": {
+    "Мощность": "42 Вт RMS",
+    "Диапазон частот": "60 Гц – 20 кГц",
+    "Входы": "RCA, TRS"
+  },
+  "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/EdifierMR4.jpg",
+  "isNew": false,
+  "sale": 10
+},
+{
+  "id": 49,
+  "name": "Edifier MR5",
+  "brand": "Edifier",
+  "slug": "edifier-mr5",
+  "price": 18990,
+  "currency": "RUB",
+  "inStock": true,
+  "shortDescription": "Профессиональные мониторы с более мощным звучанием и улучшенной детализацией.",
+  "description": "Edifier MR5 — это мощные активные мониторы с расширенным динамическим диапазоном, предназначенные для профессиональной работы со звуком. Поддерживают балансные входы и точную настройку частот.",
+  "categories": ["Колонки"],
+  "tags": ["Edifier", "Колонки"],
+  "specs": {
+    "Мощность": "70 Вт RMS",
+    "Диапазон частот": "55 Гц – 20 кГц",
+    "Входы": "XLR, TRS"
+  },
+  "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/EdifierMR5.jpg",
+  "isNew": true,
+  "sale": 0
+},
+{
+  "id": 50,
+  "name": "Apple AirPods 4",
+  "brand": "Apple",
+  "slug": "apple-airpods-4",
+  "price": 24990,
+  "currency": "RUB",
+  "inStock": true,
+  "shortDescription": "Беспроводные наушники с улучшенным звуком и активным шумоподавлением.",
+  "description": "Apple AirPods 4 — новое поколение культовых беспроводных наушников с поддержкой активного шумоподавления, Spatial Audio и улучшенной посадкой. Совместимы с iPhone, iPad и Mac.",
+  "categories": ["Наушники"],
+  "tags": ["Apple", "Наушники"],
+  "specs": {
+    "Тип": "Внутриканальные",
+    "Подключение": "Bluetooth 5.3",
+    "Особенности": "Активное шумоподавление, Spatial Audio"
+  },
+  "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/airpods-4.jpg",
+  "isNew": true,
+  "sale": 0
+}
 ]
