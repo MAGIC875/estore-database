@@ -1113,7 +1113,7 @@
 },
 {
   "id": 50,
-  "name": "Apple AirPods 4",
+  "name": "AirPods 4",
   "brand": "Apple",
   "slug": "apple-airpods-4",
   "price": 24990,
@@ -1134,7 +1134,7 @@
 },
   {
     "id": 51,
-    "name": "Apple iPhone 16",
+    "name": "iPhone 16",
     "brand": "Apple",
     "slug": "apple-iphone-16",
     "price": 82990,
@@ -1151,7 +1151,7 @@
   },
   {
     "id": 52,
-    "name": "Apple iPhone 15",
+    "name": "iPhone 15",
     "brand": "Apple",
     "slug": "apple-iphone-15",
     "price": 69990,
@@ -1168,24 +1168,29 @@
   },
   {
     "id": 53,
-    "name": "Apple AirPods Pro 2",
-    "brand": "Apple",
-    "slug": "apple-airpods-pro-2",
-    "price": 24990,
+    "name": "Huawei MatePad 12.4 2024",
+    "brand": "Huawei",
+    "slug": "huawei-matepad-12-2024",
+    "price": 39990,
     "currency": "RUB",
-    "inStock": true,
-    "shortDescription": "Наушники с активным шумоподавлением.",
-    "description": "AirPods Pro 2 обеспечивают высокое качество звучания и глубокий ANC.",
-    "categories": ["Наушники"],
-    "tags": ["Apple", "AirPods"],
-    "specs": { "Тип": "TWS", "Шумоподавление": "ANC", "Чип": "H2" },
+    "inStock": false,
+    "shortDescription": "Планшет для учебы и работы.",
+    "description": "Большой 12.4-дюймовый планшет с качественным IPS-экраном, долгой автономностью и стилусом M-Pencil, отлично подходит для заметок и учебы.",
+    "categories": ["Планшеты"],
+    "tags": ["Huawei", "MatePad"],
+    "specs": {
+      "Экран": "12.4″ IPS",
+      "Процессор": "Kirin 9000E",
+      "Память": "8/128 ГБ",
+      "Батарея": "10050 мАч"
+    },
     "images": "",
     "isNew": false,
-    "sale": 5
+    "sale": 0
   },
   {
     "id": 54,
-    "name": "Apple AirPods Pro 3",
+    "name": "AirPods Pro 3",
     "brand": "Apple",
     "slug": "apple-airpods-pro-3",
     "price": 29990,
@@ -1556,5 +1561,93 @@
     "images": "",
     "isNew": false,
     "sale": 0
-  }
+  },
+  {
+  "id": 76,
+  "name": "Xiaomi Pad 7 Pro",
+  "brand": "Xiaomi",
+  "slug": "xiaomi-pad-7-pro",
+  "price": 45990,
+  "currency": "RUB",
+  "inStock": true,
+  "shortDescription": "Мощный планшет с экраном 144 Гц.",
+  "description": "Xiaomi Pad 7 Pro оснащён быстрым Snapdragon 8 Gen 2, 144-Гц дисплеем и стереодинамиками. Отлично подходит для игр, мультимедиа и учебы.",
+  "categories": ["Планшеты"],
+  "tags": ["Xiaomi", "Tablet"],
+  "specs": {
+    "Экран": "11.6″ IPS 144 Гц",
+    "Процессор": "Snapdragon 8 Gen 2",
+    "Память": "8/128 ГБ",
+    "Батарея": "8600 мАч"
+  },
+  "images": "",
+  "isNew": true,
+  "sale": 0
+},
+  {
+  "id": 77,
+  "name": "Apple iPad Pro 13 (M4)",
+  "brand": "Apple",
+  "slug": "apple-ipad-pro-13-m4",
+  "price": 129990,
+  "currency": "RUB",
+  "inStock": true,
+  "shortDescription": "Планшет с OLED-дисплеем и чипом M4.",
+  "description": "Новый iPad Pro на чипе M4 с OLED-дисплеем Tandem, поддержкой Apple Pencil Pro и огромным запасом мощности для профессиональных задач.",
+  "categories": ["Планшеты"],
+  "tags": ["Apple", "iPad"],
+  "specs": {
+    "Экран": "13″ OLED",
+    "Процессор": "Apple M4",
+    "Память": "256 ГБ",
+    "Видео": "ProMotion 120 Гц"
+  },
+  "images": "",
+  "isNew": true,
+  "sale": 0
+},
+{
+  "id": 78,
+  "name": "Samsung Galaxy Tab S10 Ultra",
+  "brand": "Samsung",
+  "slug": "samsung-galaxy-tab-s10-ultra",
+  "price": 99990,
+  "currency": "RUB",
+  "inStock": true,
+  "shortDescription": "13,9″ AMOLED и мощный Snapdragon.",
+  "description": "Огромный AMOLED 120 Гц, стилус S Pen в комплекте, топовый Snapdragon и ёмкая батарея — отличный выбор для творчества и работы.",
+  "categories": ["Планшеты"],
+  "tags": ["Samsung", "Galaxy Tab"],
+  "specs": {
+    "Экран": "13.9″ AMOLED 120 Гц",
+    "Процессор": "Snapdragon 8 Gen 3",
+    "Память": "12/256 ГБ",
+    "Батарея": "11200 мАч"
+  },
+  "images": "",
+  "isNew": false,
+  "sale": 10
+},
+{
+  "id": 79,
+  "name": "Lenovo Tab P12 Pro",
+  "brand": "Lenovo",
+  "slug": "lenovo-tab-p12-pro",
+  "price": 54990,
+  "currency": "RUB",
+  "inStock": true,
+  "shortDescription": "Планшет с AMOLED и четырьмя динамиками.",
+  "description": "Тонкий планшет с ярким AMOLED-экраном, мощным Snapdragon и четырьмя динамиками JBL — отличный мультимедийный выбор.",
+  "categories": ["Планшеты"],
+  "tags": ["Lenovo", "Tab"],
+  "specs": {
+    "Экран": "12.6″ AMOLED 120 Гц",
+    "Процессор": "Snapdragon 870",
+    "Память": "8/256 ГБ",
+    "Динамики": "JBL ×4"
+  },
+  "images": "",
+  "isNew": false,
+  "sale": 7
+}
 ]
