@@ -1134,7 +1134,7 @@
 },
   {
     "id": 51,
-    "name": "iPhone 16",
+    "name": "iPhone 16 256GB",
     "brand": "Apple",
     "slug": "apple-iphone-16",
     "price": 82990,
@@ -1145,13 +1145,13 @@
     "categories": ["Смартфоны"],
     "tags": ["Apple", "iPhone"],
     "specs": { "Экран": "6.1″", "Память": "256 ГБ", "Чип": "A18 Bionic" },
-    "images": "",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/",
     "isNew": true,
     "sale": 0
   },
   {
     "id": 52,
-    "name": "iPhone 15",
+    "name": "iPhone 15 128GB",
     "brand": "Apple",
     "slug": "apple-iphone-15",
     "price": 69990,
@@ -1162,7 +1162,7 @@
     "categories": ["Смартфоны"],
     "tags": ["Apple", "iPhone"],
     "specs": { "Экран": "6.1″", "Память": "128 ГБ", "Чип": "A16 Bionic" },
-    "images": "",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/",
     "isNew": false,
     "sale": 10
   },
@@ -1184,7 +1184,7 @@
       "Память": "8/128 ГБ",
       "Батарея": "10050 мАч"
     },
-    "images": "",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/",
     "isNew": false,
     "sale": 0
   },
@@ -1201,7 +1201,7 @@
     "categories": ["Наушники"],
     "tags": ["Apple", "AirPods"],
     "specs": { "Тип": "TWS", "Шумоподавление": "ANC 2.0", "Чип": "H3" },
-    "images": "",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/",
     "isNew": true,
     "sale": 0
   },
@@ -1218,7 +1218,7 @@
     "categories": ["Смартфоны"],
     "tags": ["Samsung", "Galaxy"],
     "specs": { "Экран": "6.5″", "Память": "128 ГБ", "Чип": "Exynos 1480" },
-    "images": "",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/",
     "isNew": false,
     "sale": 5
   },
@@ -1235,24 +1235,29 @@
     "categories": ["Смартфоны"],
     "tags": ["OnePlus", "Nord"],
     "specs": { "Экран": "6.43″", "Память": "12 ГБ", "Чип": "Snapdragon 7 Gen 3" },
-    "images": "",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/OnePlusNord4.png",
     "isNew": false,
     "sale": 8
   },
-  {
+    {
     "id": 57,
-    "name": "Dell XPS 13 Plus",
-    "brand": "Dell",
-    "slug": "dell-xps-13-plus",
-    "price": 189990,
+    "name": "MacBook Air 15 (M3)",
+    "brand": "Apple",
+    "slug": "apple-macbook-air-15-m3",
+    "price": 139990,
     "currency": "RUB",
     "inStock": true,
-    "shortDescription": "Премиальный ультрабук.",
-    "description": "XPS 13 Plus — компактный ноутбук с OLED дисплеем.",
+    "shortDescription": "Тонкий и мощный ноутбук на чипе M3.",
+    "description": "Обновлённый MacBook Air 15 на чипе M3 с большим экраном, тихой работой и впечатляющей автономностью. Идеален для повседневных задач.",
     "categories": ["Ноутбуки"],
-    "tags": ["Dell", "XPS"],
-    "specs": { "Экран": "13.4″", "Память": "16 ГБ", "Чип": "Intel Core i7" },
-    "images": "",
+    "tags": ["Apple", "MacBook"],
+    "specs": {
+      "Экран": "15.3″ Liquid Retina",
+      "Процессор": "Apple M3",
+      "Память": "8/256 ГБ",
+      "Вес": "1.51 кг"
+    },
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/AppleMacBookAir15(M3).jpg",
     "isNew": true,
     "sale": 0
   },
@@ -1269,7 +1274,7 @@
     "categories": ["Ноутбуки"],
     "tags": ["HP", "Envy"],
     "specs": { "Экран": "15.6″", "Память": "16 ГБ", "Чип": "Ryzen 7" },
-    "images": "",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/HP_Envy-x360_15.webp",
     "isNew": false,
     "sale": 10
 },
@@ -1286,7 +1291,7 @@
     "categories": ["Ноутбуки"],
     "tags": ["Lenovo", "Yoga"],
     "specs": { "Экран": "14″", "Память": "16 ГБ", "Чип": "Intel Core i7" },
-    "images": "",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/LenovoYogaSlim7.jpg",
     "isNew": false,
     "sale": 12
   },
@@ -1303,7 +1308,7 @@
     "categories": ["Наушники"],
     "tags": ["Bose"],
     "specs": { "Тип": "TWS", "Шумоподавление": "ANC", "Автономность": "6 ч" },
-    "images": "",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/BoseQuietComfortEarbuds2.webp",
     "isNew": false,
     "sale": 5
   },
@@ -1320,7 +1325,7 @@
     "categories": ["Наушники"],
     "tags": ["Sennheiser"],
     "specs": { "Тип": "TWS", "Частота": "20-21000 Гц" },
-    "images": "",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/SennheiserMomentumTW3.webp",
     "isNew": true,
     "sale": 0
   },
@@ -1337,7 +1342,7 @@
     "categories": ["Смарт-часы"],
     "tags": ["Garmin"],
     "specs": { "Материал": "Титан", "Батарея": "25 дней" },
-    "images": "",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/GarminFenix8Pro.jpg",
     "isNew": true,
     "sale": 0
   },
@@ -1354,7 +1359,7 @@
     "categories": ["Смарт-часы"],
     "tags": ["Apple", "Watch"],
     "specs": { "Экран": "1.78″", "Чип": "S8" },
-    "images": "",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/AppleWatchSE3.webp",
     "isNew": false,
     "sale": 8
   },
@@ -1371,7 +1376,7 @@
     "categories": ["Периферия"],
     "tags": ["Razer", "Mouse"],
     "specs": { "DPI": "26000", "Кнопки": "8" },
-    "images": "",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/RazerBasiliskV3.webp",
     "isNew": false,
     "sale": 10
   },
@@ -1388,13 +1393,13 @@
     "categories": ["Периферия"],
     "tags": ["SteelSeries", "Keyboard"],
     "specs": { "Тип": "Механическая", "Свитчи": "Red/Blue" },
-    "images": "",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/SteelSeriesApex7TKL.webp",
     "isNew": false,
     "sale": 12
   },
   {
     "id": 66,
-    "name": "Sony PlayStation 5 Slim",
+    "name": "PlayStation 5 Slim",
     "brand": "Sony",
     "slug": "sony-ps5-slim",
     "price": 49990,
@@ -1405,7 +1410,7 @@
     "categories": ["Игровые консоли"],
     "tags": ["Sony", "PlayStation"],
     "specs": { "Память": "1 ТБ" },
-    "images": "",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/SonyPlayStation5Slim.jpeg",
     "isNew": true,
     "sale": 0
   },
@@ -1422,61 +1427,74 @@
     "categories": ["Игровые консоли"],
     "tags": ["Microsoft", "Xbox"],
     "specs": { "Память": "512 ГБ" },
-    "images": "",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/XboxSeriesS.jpg",
+    "isNew": false,
+    "sale": 5
+  },
+    {
+    "id": 68,
+    "name": "Mac Mini (M3)",
+    "brand": "Apple",
+    "slug": "apple-mac-mini-m3",
+    "price": 89990,
+    "currency": "RUB",
+    "inStock": true,
+    "shortDescription": "Компактный компьютер для дома и офиса.",
+    "description": "Mac Mini на чипе M3 предлагает высокую производительность в минимальном корпусе. Подходит для работы, мультимедиа и лёгкого монтажа.",
+    "categories": ["Компьютеры"],
+    "tags": ["Apple", "Mac Mini"],
+    "specs": {
+      "Процессор": "Apple M3",
+      "Память": "8/256 ГБ",
+      "Порты": "2×Thunderbolt 4, HDMI"
+    },
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/AppleMacMini(M3).webp",
     "isNew": false,
     "sale": 5
   },
   {
-    "id": 68,
-    "name": "Nintendo Switch OLED V2",
-    "brand": "Nintendo",
-    "slug": "nintendo-switch-oled-v2",
-    "price": 32990,
+    "id": 69,
+    "name": "Apple Watch Ultra 2",
+    "brand": "Apple",
+    "slug": "apple-watch-ultra-2",
+    "price": 89990,
     "currency": "RUB",
     "inStock": false,
-    "shortDescription": "Гибридная консоль с OLED экраном.",
-    "description": "Яркий OLED и улучшенные джойконы.",
-    "categories": ["Игровые консоли"],
-    "tags": ["Nintendo", "Switch"],
-    "specs": { "Экран": "7″ OLED" },
-    "images": "",
-    "isNew": false,
-    "sale": 8
-  },
-  {
-    "id": 69,
-    "name": "LG 27GP850-B",
-    "brand": "LG",
-    "slug": "lg-27gp850-b",
-    "price": 32990,
-    "currency": "RUB",
-    "inStock": true,
-    "shortDescription": "Игровой монитор 165 Гц.",
-    "description": "IPS матрица, быстрый отклик.",
-    "categories": ["Мониторы"],
-    "tags": ["LG", "Monitor"],
-    "specs": { "Диагональ": "27″", "Частота": "165 Гц" },
-    "images": "",
+    "shortDescription": "Премиальные часы для спорта и приключений.",
+    "description": "Apple Watch Ultra 2 с ярким дисплеем, длительной автономностью и улучшенной прочностью корпуса. Созданы для экстремальных условий.",
+    "categories": ["Часы"],
+    "tags": ["Apple", "Watch"],
+    "specs": {
+      "Экран": "1.92″ OLED",
+      "Корпус": "Титан",
+      "Водозащита": "100 м"
+    },
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/AppleWatchUltra2.jpg",
     "isNew": false,
     "sale": 0
   },
   {
     "id": 70,
-    "name": "ASUS ProArt PA32UCX",
-    "brand": "ASUS",
-    "slug": "asus-proart-pa32ucx",
-    "price": 219990,
+    "name": "iMac 24 (M3)",
+    "brand": "Apple",
+    "slug": "apple-imac-24-m3",
+    "price": 159990,
     "currency": "RUB",
     "inStock": true,
-    "shortDescription": "Профессиональный монитор.",
-    "description": "Mini-LED, 4K, HDR.",
-    "categories": ["Мониторы"],
-    "tags": ["ASUS", "ProArt"],
-    "specs": { "Диагональ": "32″", "Подсветка": "Mini-LED" },
-    "images": "",
-    "isNew": false,
-    "sale": 10
+    "shortDescription": "Стильный моноблок с чипом M3.",
+    "description": "Новый iMac 24 на чипе M3 с ярким 4.5K Retina дисплеем и ультратонким дизайном. Отличный выбор для дома и офисной работы.",
+    "categories": ["Компьютеры"],
+    "tags": ["Apple", "iMac"],
+    "specs": {
+      "Экран": "24″ 4.5K Retina",
+      "Процессор": "Apple M3",
+      "Память": "8/256 ГБ"
+    },
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/AppleiMac24(M3).jpg",
+    "isNew": true,
+    "sale": 0
   },
+    
   {
     "id": 71,
     "name": "JBL Flip 6",
@@ -1490,7 +1508,7 @@
     "categories": ["Колонки"],
     "tags": ["JBL", "Speaker"],
     "specs": { "Мощность": "20 Вт" },
-    "images": "",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/JBL_Flip6.jpg",
     "isNew": false,
     "sale": 5
   },
@@ -1507,43 +1525,51 @@
     "categories": ["Колонки"],
     "tags": ["Marshall"],
     "specs": { "Мощность": "25 Вт" },
-    "images": "",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/MarshallTufton.jpeg",
     "isNew": false,
     "sale": 15
   },
-  {
-    "id": 73,
-    "name": "Blue Yeti X",
-    "brand": "Blue",
-    "slug": "blue-yeti-x",
-    "price": 18990,
+    {
+    "id": 85,
+    "name": "Apple Magic Keyboard",
+    "brand": "Apple",
+    "slug": "apple-magic-keyboard-touch-id",
+    "price": 19990,
     "currency": "RUB",
     "inStock": true,
-    "shortDescription": "USB-микрофон для стримов.",
-    "description": "4 режима направленности, студийное качество.",
-    "categories": ["Микрофоны"],
-    "tags": ["Blue", "Microphone"],
-    "specs": { "Тип": "Конденсаторный" },
-    "images": "",
+    "shortDescription": "Беспроводная клавиатура с Touch ID.",
+    "description": "Удобная клавиатура Apple Magic Keyboard с встроенным Touch ID для безопасной авторизации и покупок. Совместима с Mac на чипах M-series.",
+    "categories": ["Клавиатуры"],
+    "tags": ["Apple", "Keyboard"],
+    "specs": {
+      "Тип": "Беспроводная",
+      "Особенность": "Touch ID",
+      "Совместимость": "Mac (M-series)"
+    },
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/AppleMagicKeyboard.jpeg",
     "isNew": false,
-    "sale": 0
+    "sale": 10
   },
   {
-    "id": 74,
-    "name": "Rode NT-USB Mini",
-    "brand": "Rode",
-    "slug": "rode-nt-usb-mini",
-    "price": 12990,
+    "id": 86,
+    "name": "Apple HomePod 2",
+    "brand": "Apple",
+    "slug": "apple-homepod-2",
+    "price": 32990,
     "currency": "RUB",
     "inStock": true,
-    "shortDescription": "Компактный USB-микрофон.",
-    "description": "Чёткое звучание, магнитная подставка.",
-    "categories": ["Микрофоны"],
-    "tags": ["Rode", "Microphone"],
-    "specs": { "Тип": "Конденсаторный" },
-    "images": "",
+    "shortDescription": "Умная колонка с качественным звуком.",
+    "description": "HomePod 2 — умная акустическая система с пространственным звуком, поддержкой Siri и глубокими басами. Подходит для умного дома.",
+    "categories": ["Колонки"],
+    "tags": ["Apple", "HomePod"],
+    "specs": {
+      "Звук": "360° Spatial Audio",
+      "Поддержка": "Siri, HomeKit",
+      "Беспроводные протоколы": "Wi-Fi, Bluetooth"
+    },
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/AppleHomePod2.png",
     "isNew": false,
-    "sale": 5
+    "sale": 0
   },
   {
     "id": 75,
@@ -1558,7 +1584,7 @@
     "categories": ["Микрофоны"],
     "tags": ["HyperX"],
     "specs": { "Тип": "Конденсаторный" },
-    "images": "",
+    "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/HyperXSoloCast.webp",
     "isNew": false,
     "sale": 0
   },
@@ -1580,7 +1606,7 @@
     "Память": "8/128 ГБ",
     "Батарея": "8600 мАч"
   },
-  "images": "",
+  "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/XiaomiPad7Pro.jpg",
   "isNew": true,
   "sale": 0
 },
@@ -1602,7 +1628,7 @@
     "Память": "256 ГБ",
     "Видео": "ProMotion 120 Гц"
   },
-  "images": "",
+  "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/AppleiPadPro13(M4).jpg",
   "isNew": true,
   "sale": 0
 },
@@ -1624,7 +1650,7 @@
     "Память": "12/256 ГБ",
     "Батарея": "11200 мАч"
   },
-  "images": "",
+  "images": "https://raw.githubusercontent.com/MAGIC875/estore-database/main/images/SamsungGalaxyTabS10Ultra.jpg",
   "isNew": false,
   "sale": 10
 }
